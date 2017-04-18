@@ -1,0 +1,8 @@
+{
+  "entitywebthrow": {
+    "category": "player",
+    "sounds": [
+      "random/bow"
+    ]
+  }
+}
